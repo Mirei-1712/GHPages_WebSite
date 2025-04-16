@@ -4,7 +4,7 @@ author: default
 permalink: /
 ---
 # Hello
-
+![image](/GHPages_WebSite/assets/images/IMG_7236.jpg)
 
 
 
