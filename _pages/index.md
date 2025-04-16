@@ -3,7 +3,7 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
-# Hello
+# 自己紹介
 ![image](/GHPages_WebSite/assets/images/)
 
 
