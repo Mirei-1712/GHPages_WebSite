@@ -3,8 +3,7 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
-# こんにちは
-
+# Hello
 
 
 
