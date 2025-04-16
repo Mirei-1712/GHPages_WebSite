@@ -3,8 +3,13 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
-# 自己紹介
-![image](/GHPages_WebSite/assets/images/)
+# 読書のすゝめ
+## 最近読んだ本
+-『この世界が消えたあとの科学文明のつくりかた』
+　-Dr.STONEの作者が参考にした本。石鹸からハーバーヴォッシュ法までお馴染みのアイテムも出てきます…！
+-『シャンティ』
+  -あのボカロが小説化！独特の世界観がクセになる。
+![image](/GHPages_WebSite/assets/images/IMG_6061.jpg)
 
 
 
