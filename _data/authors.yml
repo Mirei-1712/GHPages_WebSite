@@ -1,7 +1,7 @@
 default:
   name: "粟田 実伶"
   avatar: "/assets/images/icons/default.png"
-  bio: "こんにちは！久しぶりにプログラミングをしました。"
+  bio: "こんにちは！文芸２回生の粟田です。久しぶりにプログラミングをしました。"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
