@@ -9,7 +9,7 @@ permalink: /
 　-Dr.STONEの作者が参考にした本。石鹸からハーバーヴォッシュ法までお馴染みのアイテムも出てきます…！
 -『シャンティ』
   -あのボカロが小説化！独特の世界観がクセになる。
-![image](../GHPages_WebSite/assets/images/IMG_6061.jpg)
+![image](../assets/images/IMG_6061.jpg)
 
 
 
